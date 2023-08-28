@@ -1,0 +1,8 @@
+.alert{
+    width:fit-content;
+    border: 0;
+    background:var(--bs-danger)!important;
+    text-transform:uppercase;
+    font-size:30px;
+    color:var(--text-default-color);
+}

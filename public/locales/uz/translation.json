@@ -1,0 +1,49 @@
+{
+    "header": {
+        "brand_name": "Ob Havo Dasturi",
+        "search_placeholder": "Shaharni kiriting . . ."
+    },
+    "main": {
+        "city_title": "{{ city }}dagi Ob Havo Ma'lumotlari",
+        "city_date": "{{ date }}",
+        "feels_temp": "Sezilarli daraja {{ temp }}",
+        "city_sunrise": "Quyosh chiqishi {{ sunrise }}",
+        "city_sunset": "Quyosh botishi {{ sunset }}",
+        "city_humidity": "Namlik : {{ humidity }}",
+        "city_wind": "Shamol tezligi {{ wind }}",
+        "city_compass": "{{ compass }}"
+    },
+    "date": {
+        "daysOfTheWeek": [
+            "Yakshanba",
+            "Dushanba",
+            "Seshanba",
+            "Chorshanba",
+            "Payshanba",
+            "Juma",
+            "Shanba"
+        ],
+        "monthsOfTheYear": [
+            "Yanvar",
+            "Fevral",
+            "Mart",
+            "Aprel",
+            "May",
+            "Iyun",
+            "Iyul",
+            "Avgust",
+            "Sentabr",
+            "Oktabr",
+            "Noyabr",
+            "Dekabr"
+        ]
+    },
+    "error":{
+        "network_err":"ILTIMOS INTERNET BILAN ULANISHNI TEKSHIRIB KO'RING",
+        "no_found":"Ma'lumotlaringiz topilmadi"
+    },
+    "footer": {
+        "copyright": "Copyright © 2023",
+        "created_by": "Sultonov Hayotjon tomonidan ishlab chiqildi"
+    }
+}

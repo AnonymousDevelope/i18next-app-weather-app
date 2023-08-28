@@ -1,0 +1,10 @@
+.daily-item{
+    /* border: 1px solid red; */
+    padding: 5px;
+    border-radius: 1rem;
+    transition: all 0.3s ease-in-out;
+    cursor: pointer;
+}
+.daily-item:hover{
+    transform: scale(1.1);
+}

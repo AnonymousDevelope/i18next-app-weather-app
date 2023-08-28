@@ -1,0 +1,23 @@
+.weather-input-group{
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    border-bottom: 1px solid var( --text-default-color);
+}
+.weather-input-group .input-search{
+    padding: 5px;
+    outline: none;
+    border: none;
+    color: var(--text-default-color);
+    background-color: transparent;
+}
+
+.weather-input-group .btn-search{
+    padding: 10px;
+    background-color: var(--text-default-color);
+    cursor: pointer;
+    border: none;
+    outline: none;
+    border-radius: 0.2rem;
+    
+}

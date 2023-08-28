@@ -1,0 +1,17 @@
+.dropdown{
+    text-align: center;
+    padding: 10px;
+    color: var(--text-default-color)!important;
+    border-radius: 1rem;
+    cursor: pointer;
+}
+.dropdown .dropdown-menu{
+    background-color: var(--text-default-color) ;
+}
+
+.dropdown .dropdown-menu .dropdown-item{
+    color: var(--text-default-color);
+}
+.dropdown .dropdown-menu .dropdown-item:hover{
+    color: var(--bg-default-color);
+}

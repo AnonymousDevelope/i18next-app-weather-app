@@ -1,0 +1,49 @@
+{
+    "header": {
+        "brand_name": "Weather App",
+        "search_placeholder": "Search City..."
+    },
+    "main": {
+        "city_title": "Weather of {{ city }}",
+        "city_date": "{{ date }}",
+        "feels_temp": "Feels Like: {{ temp }}",
+        "city_sunrise": "Sunrise at {{ sunrise }}",
+        "city_sunset": "Sunset at {{ sunset }}",
+        "city_humidity": "Humidity: {{ humidity }}",
+        "city_wind": "Wind: {{ wind }}",
+        "city_compass": "{{ compass }}"
+    },
+    "date": {
+        "daysOfTheWeek": [
+            "Sunday",
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday"
+        ],
+        "monthsOfTheYear": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November",
+            "December"
+        ]
+    },
+    "error":{
+        "network_err":"You should scanning network",
+        "no_found":"do not found information"
+    },
+    "footer": {
+        "copyright": "Copyright © 2023",
+        "created_by": "Created by Sultonov Hayotjon"
+    }
+}

@@ -1,0 +1,18 @@
+:root {
+  --bg-color: rgba(0, 0, 0, 0.8);
+  --text-default-color: rgba(209, 255, 255, 0.5);
+}
+body>*{
+  transition: all 0.5s  ease-in;
+}
+body {
+  background-color: var(--bg-color);
+  color: var(--text-default-color);
+  font-family: monospace;
+}
+
+button {
+  padding: 10px;
+  border-radius: 0.7rem;
+  
+}
